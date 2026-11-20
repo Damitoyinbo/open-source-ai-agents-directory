@@ -73,6 +73,7 @@ Agents that write, review, or ship code autonomously.
 |---|---|---|
 | Agent Desk | Open-source AI-first customer support system with human-ready operations. | [huabeitech/agent-desk](https://github.com/huabeitech/agent-desk) |
 | AI Customer Service Agent | Production-ready support agent with multi-step workflows, tool integration, and real-time monitoring. | [Bhavik-Jikadara/ai-customer-service-agent](https://github.com/Bhavik-Jikadara/ai-customer-service-agent) |
+| FeedLog | Open-source customer support platform with an AI agent, knowledge base, shared inbox, and customer feedback workflows. | [linkcraftstudio/feedlog](https://github.com/linkcraftstudio/feedlog) |
 | OpenAI Support Agent Demo | Reference implementation of a support agent using Next.js and the OpenAI Responses API with file search. | [openai/openai-support-agent-demo](https://github.com/openai/openai-support-agent-demo) |
 
 ## Education & Tutoring
